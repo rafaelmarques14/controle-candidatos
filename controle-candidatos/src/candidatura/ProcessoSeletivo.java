@@ -2,7 +2,6 @@ package candidatura;
 
 public class ProcessoSeletivo {
     public static void main(String[] args) {
-
         analisarCandidato(1900.0);
         analisarCandidato(2200.0);
         analisarCandidato(2000.0);
